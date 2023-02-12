@@ -1,0 +1,17 @@
+{
+  "name": "express-with-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^6.9.1"
+  }
+}
